@@ -1,0 +1,6 @@
+/Users/hugo/RiderProjects/Server/Server/bin/Debug/Server.exe
+/Users/hugo/RiderProjects/Server/Server/bin/Debug/Server.pdb
+/Users/hugo/RiderProjects/Server/Server/obj/Debug/Server.csprojAssemblyReference.cache
+/Users/hugo/RiderProjects/Server/Server/obj/Debug/Server.csproj.CoreCompileInputs.cache
+/Users/hugo/RiderProjects/Server/Server/obj/Debug/Server.exe
+/Users/hugo/RiderProjects/Server/Server/obj/Debug/Server.pdb
